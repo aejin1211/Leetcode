@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aejin1211/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aejin1211/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
