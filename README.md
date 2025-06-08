@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aejin1211/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 ## Hash Table
@@ -20,11 +21,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
