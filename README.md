@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/aejin1211/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0739-daily-temperatures](https://github.com/aejin1211/Leetcode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [0206-reverse-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
@@ -99,11 +101,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aejin1211/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aejin1211/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aejin1211/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aejin1211/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
