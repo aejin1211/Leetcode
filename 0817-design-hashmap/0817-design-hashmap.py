@@ -48,7 +48,7 @@ class MyHashMap:
             self.table[index] = ListNode() if p.next is None else p.next
             return
 
-        prev = p
+       #prev = p
         while p: 
             if p.key == key:
                 prev.next = p.next
