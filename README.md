@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aejin1211/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
