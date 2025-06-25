@@ -3,10 +3,10 @@ class Solution:
         def dfs(index, path):
             if len(path) == len(digits):
                 result.append(path)
-                return
-
-            for j in dic[digits[index]]:
-                dfs(index+1, path + j)
+                return 
+            for i in dic[digits[index]]:
+                dfs(index + 1, path + i)
+        
         if not digits:
             return []
         dic = {"2": "abc", "3": "def", "4":"ghi", "5":"jkl", 
@@ -14,6 +14,4 @@ class Solution:
 
         result = []
         dfs(0, "")
-
         return result
-        
