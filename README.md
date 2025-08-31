@@ -20,6 +20,7 @@
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
+| [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
+| [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 ## Two Pointers
 |  |
 | ------- |
