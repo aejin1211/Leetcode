@@ -37,6 +37,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aejin1211/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 ## Sorting
@@ -52,6 +53,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
