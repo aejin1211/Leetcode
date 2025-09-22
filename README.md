@@ -46,6 +46,7 @@
 | [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aejin1211/Leetcode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/aejin1211/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/aejin1211/Leetcode/tree/master/0012-integer-to-roman) |
+| [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
 ## Design
 |  |
 | ------- |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aejin1211/Leetcode/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
