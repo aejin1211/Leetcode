@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/aejin1211/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aejin1211/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
@@ -116,6 +117,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/aejin1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/aejin1211/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/aejin1211/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -140,6 +142,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/aejin1211/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aejin1211/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
