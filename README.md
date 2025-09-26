@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aejin1211/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aejin1211/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aejin1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/aejin1211/Leetcode/tree/master/0200-number-of-islands) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
