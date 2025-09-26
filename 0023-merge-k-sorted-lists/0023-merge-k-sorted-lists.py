@@ -5,20 +5,33 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        root = result = ListNode(None)
-        heap = []
+        if not lists or len(lists)== 0:
+            return None
+        while len(lists) > 1:
+            mergedLists = []
 
-        for i in range(len(lists)):
-            if lists[i]:
-                heapq.heappush(heap, (lists[i].val, i, lists[i]))
+            for i in range(0, len(lists), 2):
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1 < len(lists) else None
+                mergedLists.append(self.mergeList(l1, l2))
 
-        while heap:
-            node = heapq.heappop(heap)
-            idx = node[1]
-            result.next = node[2]
+            lists = mergedLists
+        return lists[0]
+    def mergeList(self, l1, l2):
+        dummy = ListNode()
+        tail = dummy
 
-            result = result.next
-            if result.next:
-                heapq.heappush(heap, (result.next.val, idx, result.next))
+        while l1 and l2:
+            if l1.val < l2.val:
+                tail.next= l1
+                l1 = l1.next
+            else:
+                tail.next = l2
+                l2 = l2.next
+            tail = tail.next
+        if l1:
+            tail.next = l1
+        if l2:
+            tail.next = l2
         
-        return root.next
+        return dummy.next
