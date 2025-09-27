@@ -4,16 +4,18 @@ class Solution:
             return 0
 
         left, right = 0, len(height) - 1
-        left_max, right_max = height[left], height[right]
-
+        left_most, right_most = height[left], height[right]
         volume = 0
+
         while left < right:
-            left_max, right_max = max(left_max, height[left]), max(right_max, height[right])
-            if left_max <= right_max:
-                volume += left_max - height[left]
+            left_most = max(left_most, height[left])
+            right_most = max(right_most, height[right])
+
+            if left_most <= right_most:
+                volume += left_most - height[left]
                 left += 1
             else:
-                volume += right_max - height[right]
+                volume += right_most - height[right]
                 right -= 1
-        
-        return volume 
+
+        return volume
