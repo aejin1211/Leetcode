@@ -59,6 +59,7 @@
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0837-most-common-word](https://github.com/aejin1211/Leetcode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/aejin1211/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0636-exclusive-time-of-functions](https://github.com/aejin1211/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/aejin1211/Leetcode/tree/master/0739-daily-temperatures) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/aejin1211/Leetcode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
