@@ -3,8 +3,7 @@ class Solution:
         dict = {}
 
         for i, num in enumerate(nums):
-
             if dict and target - num in dict:
                 return [i, dict[target-num]]
+
             dict[num] = i
-            
