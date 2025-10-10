@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/aejin1211/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
@@ -67,6 +69,7 @@
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
