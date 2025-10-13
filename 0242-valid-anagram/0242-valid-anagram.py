@@ -10,8 +10,11 @@ class Solution:
             countS[s[i]] += 1
             countT[t[i]] += 1
 
-        for c in countS:
-            if countS[c] != countT[c]:
+        for chac in countS:
+            if countS[chac] != countT[chac]:
                 return False
         return True
+
+        
+
         
