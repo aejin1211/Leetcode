@@ -2,8 +2,8 @@ class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
         hash = {}
 
-        for i, num in enumerate(nums):
-            if num in hash:
-                return True
-            hash[num] = i
+        for num in nums:
+            if hash and num in hash:
+                return True 
+            hash[num] = 1
         return False
