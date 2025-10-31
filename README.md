@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/aejin1211/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aejin1211/Leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aejin1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/aejin1211/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@
 | [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -81,6 +83,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
