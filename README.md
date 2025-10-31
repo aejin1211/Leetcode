@@ -27,6 +27,7 @@
 | [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/aejin1211/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
+| [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/aejin1211/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 ## Two Pointers
 |  |
@@ -87,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/aejin1211/Leetcode/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
