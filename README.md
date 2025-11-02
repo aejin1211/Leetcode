@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aejin1211/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0636-exclusive-time-of-functions](https://github.com/aejin1211/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/aejin1211/Leetcode/tree/master/0739-daily-temperatures) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0782-jewels-and-stones](https://github.com/aejin1211/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/aejin1211/Leetcode/tree/master/0837-most-common-word) |
@@ -76,6 +78,7 @@
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -91,6 +94,7 @@
 | [0141-linked-list-cycle](https://github.com/aejin1211/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/aejin1211/Leetcode/tree/master/0146-lru-cache) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
