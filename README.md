@@ -25,6 +25,7 @@
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [0636-exclusive-time-of-functions](https://github.com/aejin1211/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/aejin1211/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/aejin1211/Leetcode/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
 | [0837-most-common-word](https://github.com/aejin1211/Leetcode/tree/master/0837-most-common-word) |
 | [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
@@ -280,4 +281,5 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aejin1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0792-binary-search](https://github.com/aejin1211/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
