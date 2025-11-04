@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/aejin1211/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/aejin1211/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/aejin1211/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aejin1211/Leetcode/tree/master/0046-permutations) |
@@ -276,6 +277,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aejin1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
