@@ -34,6 +34,7 @@
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/aejin1211/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
+| [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 ## Counting Sort
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aejin1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 ## Merge Sort
 |  |
 | ------- |
