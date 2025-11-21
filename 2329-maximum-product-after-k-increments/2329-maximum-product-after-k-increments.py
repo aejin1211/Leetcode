@@ -11,9 +11,9 @@ class Solution:
             heapq.heappush(nums, current_min)
         
         for num in nums:
-            result = result * num
+            result = result * num % mod
 
-        return result % mod
+        return result 
 
             
         
