@@ -34,6 +34,7 @@
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/aejin1211/Leetcode/tree/master/0974-reorder-data-in-log-files) |
 | [1019-squares-of-a-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/aejin1211/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/aejin1211/Leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 ## Hash Table
@@ -278,6 +279,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/aejin1211/Leetcode/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/aejin1211/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Doubly-Linked List
 |  |
 | ------- |
