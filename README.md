@@ -298,4 +298,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aejin1211/Leetcode/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/aejin1211/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
