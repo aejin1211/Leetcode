@@ -1,9 +1,13 @@
 class Solution:
     def removeDuplicateLetters(self, s: str) -> str:
-        for char in sorted(set(s)):
-            suffix = s[s.index(char):]
-            if set(s) == set(suffix):
-                return char + self.removeDuplicateLetters(suffix.replace(char, ''))
+        stack = []
+        last_occuerence = {letter: i for i, letter in enumerate(s)}
 
-        return ''
-        
+        seen = set()
+        for i, letter in enumerate(s):
+            if  letter not in seen:
+                while stack and stack[-1] > letter and last_occuerence[stack[-1]] > i:
+                    seen.remove(stack.pop())
+                seen.add(letter)
+                stack.append(letter)
+        return ''.join(stack)
