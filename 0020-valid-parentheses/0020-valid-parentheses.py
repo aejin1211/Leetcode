@@ -1,15 +1,11 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        table = {
-            ')' : '(',
-            '}' : '{',
-            ']' : '['
-        }
+        table = {'}':'{', ')':'(', ']':'['}
 
-        for char in s:
-            if char not in table:
-                stack.append(char)
-            elif not stack or table[char] != stack.pop():
+        for c in s:
+            if c not in table:
+                stack.append(c)
+            elif not stack or table[c] != stack.pop():
                 return False
         return len(stack) == 0
