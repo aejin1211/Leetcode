@@ -5,7 +5,6 @@ class Solution:
         while l < r:
             while l < r and not s[l].isalnum():
                 l += 1
-
             while l < r and not s[r].isalnum():
                 r -= 1
             
@@ -13,5 +12,5 @@ class Solution:
                 return False
             l += 1
             r -= 1
-
+            
         return True
