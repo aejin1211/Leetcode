@@ -8,10 +8,12 @@ class Solution:
             return (i + nums[i]) % n
 
         def valid(direction, i):
-            return (nums[i] > 0) == direction
+            return nums[i] != 0 and (nums[i] > 0) == direction
 
 
         for i in range(n):
+            if nums[i] == 0:
+                continue
 
             direction = nums[i] > 0
             slow = i
@@ -37,11 +39,12 @@ class Solution:
                     if slow == next_index(slow):
                         break
                     return True
-        return False    
-            # curr = i
-            # while valid(direction, curr):
-            #     nxt = next_index(curr)
-            #     nums[curr] = 0
-            #     curr = nxt
+        
+            curr = i
+            while valid(direction, curr):
+                nxt = next_index(curr)
+                nums[curr] = 0
+                curr = nxt
             
+        return False   
 
