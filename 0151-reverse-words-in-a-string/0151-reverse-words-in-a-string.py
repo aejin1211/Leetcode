@@ -14,7 +14,7 @@ class Solution:
 
                 string_builder.appendleft(s[start:i])
 
-                i -= 1
+           
             i += 1
         
         return " ".join(string_builder)
