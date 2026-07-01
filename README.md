@@ -93,6 +93,7 @@
 | [0088-merge-sorted-array](https://github.com/aejin1211/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/aejin1211/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aejin1211/Leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/aejin1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aejin1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -113,6 +114,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/aejin1211/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aejin1211/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/aejin1211/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/aejin1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/aejin1211/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/aejin1211/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aejin1211/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -199,6 +201,7 @@
 | [0155-min-stack](https://github.com/aejin1211/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aejin1211/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aejin1211/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/aejin1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0817-design-hashmap](https://github.com/aejin1211/Leetcode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/aejin1211/Leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/aejin1211/Leetcode/tree/master/0860-design-circular-queue) |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aejin1211/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/aejin1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aejin1211/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
 ## Merge Sort
@@ -312,4 +316,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aejin1211/Leetcode/tree/master/0200-number-of-islands) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/aejin1211/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
