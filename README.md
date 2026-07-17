@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/aejin1211/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/aejin1211/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/aejin1211/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aejin1211/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aejin1211/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/aejin1211/Leetcode/tree/master/0078-subsets) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aejin1211/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aejin1211/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/aejin1211/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aejin1211/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -148,6 +150,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aejin1211/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/aejin1211/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/aejin1211/Leetcode/tree/master/0561-array-partition) |
 | [2329-maximum-product-after-k-increments](https://github.com/aejin1211/Leetcode/tree/master/2329-maximum-product-after-k-increments) |
